@@ -13,6 +13,9 @@ This is a Bluetooth Module based igniter
 # Circuit Diagram
 ![unknown](https://cdn.discordapp.com/attachments/907956163671359528/1045332733825667113/unknown.png)
 
+# App Link
+https://www.mediafire.com/file/tecetnmcb8x8iqp/Arduino_Firework_Igniter.apk/
+
 # Instructions 
 Make sure to remove `RX` and `TX` on Arduino while uploading code
 
