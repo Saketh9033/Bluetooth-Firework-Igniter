@@ -14,6 +14,6 @@ This is a Bluetooth Module based igniter
 ![unknown](https://cdn.discordapp.com/attachments/907956163671359528/1045332733825667113/unknown.png)
 
 # Instructions 
-Make sure to remove `RX` and `TX` while uploading code
+Make sure to remove `RX` and `TX` on Arduino while uploading code
 
 In case need any help contact via mail `talk@sakethreddy.ga` or Discord `Iron_Max#9033`
